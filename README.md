@@ -81,7 +81,7 @@ Here's a link on [how to give a good lightning talk](https://www.semrush.com/blo
 
 ### Submission
 
-**Materials must be submitted on <Data Placeholder>**
+**Materials must be submitted on Google Classroom**
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
@@ -91,13 +91,13 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 - Presentation slides
 - Any other necessary files (images, etc.)
 
-**Please fork the project, download or clone to your local machine, and submit a link in the [Google Classroom]() assignment.**
+**Please fork the project, download or clone to your local machine, and submit a link in the Google Classtoom assignment.**
 
 ---
 
 ### Presentation Structure
 
-**You must be ready to present your findings by the start of class on (insert date).**
+**You must be ready to present your findings by the start of class on Friday, 2/2.**
 
 - **Must be within time limit - not more than 5-7 minutes.**
 - Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
